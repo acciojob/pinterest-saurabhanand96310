@@ -14,7 +14,7 @@
 .main{
 	align-items:center;
 }
-#img{
+.img{
 	width:350px; 
 	height:200px;
 	object-fit:cover;
