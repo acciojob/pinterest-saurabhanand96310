@@ -9,4 +9,8 @@
 	background-color:red;
 	color:white;
 	border-radius:5px;
+	border-style:none;
+}
+.main{
+	align-items:center;
 }
